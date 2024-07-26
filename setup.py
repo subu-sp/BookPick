@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 ## edit below variables as per your requirements -
 REPO_NAME = "Books-Recommender-System-Using-Machine-Learning"
-AUTHOR_USER_NAME = "entbappy"
+AUTHOR_USER_NAME = "subhra"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = ['streamlit', 'numpy']
 
